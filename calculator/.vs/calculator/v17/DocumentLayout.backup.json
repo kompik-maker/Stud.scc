@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Stud_pc\\osnova\\stud\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDB4114-1623-4EBC-9B84-C6C9707FBA56}|calculator\\calculator.csproj|d:\\stud_pc\\osnova\\stud\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDB4114-1623-4EBC-9B84-C6C9707FBA56}|calculator\\calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDB4114-1623-4EBC-9B84-C6C9707FBA56}|calculator\\calculator.csproj|D:\\Stud_pc\\osnova\\stud\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DDB4114-1623-4EBC-9B84-C6C9707FBA56}|calculator\\calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Stud_pc\\osnova\\stud\\calculator\\calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "calculator\\Form1.cs",
+              "ToolTip": "D:\\Stud_pc\\osnova\\stud\\calculator\\calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T22:21:31.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Stud_pc\\osnova\\stud\\calculator\\calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "calculator\\Form1.cs",
+              "ToolTip": "D:\\Stud_pc\\osnova\\stud\\calculator\\calculator\\Form1.cs",
+              "RelativeToolTip": "calculator\\Form1.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAowI4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T22:21:48.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
